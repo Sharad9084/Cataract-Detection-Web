@@ -1,7 +1,6 @@
 flask
-numpy
-opencv-python-headless
-pillow
-tensorflow-cpu
-werkzeug
 gunicorn
+tensorflow-cpu==2.15.0
+opencv-python-headless
+numpy
+Pillow
